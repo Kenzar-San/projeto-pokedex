@@ -22,7 +22,7 @@ Projeto básico de uma Pokedex
               </div>
               <span class="tipo"> Elétrico </span>
               
-              <div class="cartao imagem">
+              <div class="cartao-imagem">
                 <img src="src/images/pikachu.png" alt="Imagem do Pikachu"/>
               </div>
             </div>
