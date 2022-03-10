@@ -23,7 +23,7 @@ Projeto básico de uma Pokedex
               <span class="tipo"> Elétrico </span>
               
               <div class="cartao-imagem">
-                <img src="![pikachu](https://user-images.githubusercontent.com/101153511/157567683-f9c5c6e9-9100-483f-a33b-716275612818.png)" alt="Imagem do Pikachu"/>
+                <img src="src/images/pikachu.png" alt="Imagem do Pikachu"/>
 
               </div>
             </div>
@@ -54,7 +54,7 @@ Projeto básico de uma Pokedex
                 </div>
                 <span class="tipo"> Grama </span>
                 <div class="cartao-imagem">
-                  <img src="src/images/pikachu.png" alt="Imagem do Bulbasaur" />
+                  <img src="src/images/bulbasaur.png" alt="Imagem do Bulbasaur" />
                 </div>
               </div>
               
@@ -88,6 +88,7 @@ Projeto básico de uma Pokedex
                 <span class="tipo"> Fogo </span>
                 
                 <div class="cartao-imagem">
+                 <img src="src/images/charmander.png" alt="Imagem do Charmander"/>
                   <div class="status">
                     <h3> Status </h3>
                     <ul>
